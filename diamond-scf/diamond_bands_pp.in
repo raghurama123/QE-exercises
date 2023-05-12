@@ -1,0 +1,6 @@
+&BANDS
+    prefix = 'diamond'
+    outdir = '/home/rr/repos/qe-tut/diamond-scf/'
+    filband= 'diamond_bands.dat'
+/
+
